@@ -1,0 +1,16 @@
+{
+    "name": "johnnywunderlich29/buscador-cursos",
+    "description": "projeto que busca os cursos no site da alura",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johnny Wunderlich",
+            "email": "jesuelster@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "symfony/dom-crawler": "^6.2"
+    }
+}
